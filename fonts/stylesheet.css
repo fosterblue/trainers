@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('Metropolis-Medium.eot');
+    src: url('Metropolis-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Metropolis-Medium.woff2') format('woff2'),
+        url('Metropolis-Medium.woff') format('woff'),
+        url('Metropolis-Medium.ttf') format('truetype'),
+        url('Metropolis-Medium.svg#Metropolis-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
