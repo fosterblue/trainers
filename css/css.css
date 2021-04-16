@@ -112,7 +112,8 @@ header .menu .social{
     width: 100%;
 }
 .social{
- display: block
+ display: block;
+    color: red;
 }
 .social a {
     color: rgba(0,0,0,0.65);
